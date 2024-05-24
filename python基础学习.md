@@ -74,7 +74,7 @@ str(x) => 将x转换为字符串类型，所有数据类型皆可以转换为字
 
 辅助符号 `m.n` 来控制数据的宽度和精度
 
-![image-20240502022801183](C:\Users\Li\AppData\Roaming\Typora\typora-user-images\image-20240502022801183.png)
+![image-20240502022801183](./assets/image-20240502022801183.png)
 
 .n 会对数据进行四舍五入
 
@@ -166,9 +166,9 @@ for 临时变量 in 待处理数据集:
 
 ![image-20240503003429390](./assets/image-20240503003429390.png)
 
-![image-20240503003457461](C:\Users\Li\AppData\Roaming\Typora\typora-user-images\image-20240503003457461.png)
+![image-20240503003457461](./assets/image-20240503003457461.png)
 
-![image-20240503003511181](C:\Users\Li\AppData\Roaming\Typora\typora-user-images\image-20240503003511181.png)
+![image-20240503003511181](./assets/image-20240503003511181.png)
 
 `continue`关键字：中断本次循环，进行下一次循环
 
@@ -650,7 +650,7 @@ sl(5)
 
 #### 包
 
-![image-20240507101053973](C:\Users\Li\AppData\Roaming\Typora\typora-user-images\image-20240507101053973.png)
+![image-20240507101053973](./assets/image-20240507101053973.png)
 
 ```python
 # import 包名.模块名
